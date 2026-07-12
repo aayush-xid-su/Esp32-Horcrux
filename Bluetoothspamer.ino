@@ -43,3 +43,5 @@ void loop() {
     Serial.println("BLE Spamming Active - Check nRF Connect");
   }
 }
+
+// change baud rate from 9600 to 115200
