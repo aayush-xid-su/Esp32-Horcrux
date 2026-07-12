@@ -45,3 +45,4 @@ void loop() {
 }
 
 // change baud rate from 9600 to 115200
+// Might not work properly
